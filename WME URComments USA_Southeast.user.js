@@ -4,7 +4,7 @@
 // @namespace      t0cableguy@gmail.com
 // @grant          none
 // @grant          GM_info
-// @version        0.1.99
+// @version        0.2.0
 // @match          https://beta.waze.com/*editor/*
 // @match          https://www.waze.com/*editor/*
 // @author         Rick Zabel '2014
@@ -284,8 +284,8 @@ window.UrcommentsUSA_SoutheastArray2 = [
 "Solved",//T0cableguy 7/24/16
 
 "Unlock & research",
-"I have begun to investigate this issue with my fellow editors. Thanks for your report!",
-"Open",//GizmoGuy, t0cableguy, rickzabel 1/14/2015
+"I am investigating this issue with my fellow editors. Thanks for your report!",
+"Open",
 
 "Address Adjustments",
 "The address has been adjusted. This should reach new search results within a few days. On rare occasions it can take closer to a week. Please remove any instance of this address from your history and favorites and search again. Waze will not update your existing history of places unless you remove and search for them again. Please submit another report if this does not resolve your issue. Thanks!",
