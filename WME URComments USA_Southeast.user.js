@@ -226,7 +226,7 @@ window.UrcommentsUSA_SoutheastURC_USER_PROMPT[11] = "URComments - This will send
 // "Title",     * is what will show up in the URComment tab
 // "comment",   * is the comment that will be sent to the user currently
 // "URStatus"   * this is action to take when the option "Auto Click Open, Solved, Not Identified" is on. after clicking send it will click one of those choices. usage is. "Open", or "Solved",or "NotIdentified",
-// to have a blank line in between comments on the list add the following without the comment marks // there is an example below after "Thanks for the reply"
+// to have a blank line in between comments on the list add the following without the comment marks // there is an example below after "Thank You for the reply"
 // "<br>",
 // "",
 // "",
@@ -239,40 +239,40 @@ window.UrcommentsUSA_SoutheastURC_USER_PROMPT[11] = "URComments - This will send
 window.UrcommentsUSA_SoutheastArray2 = [
 
 "No reply close message",
-"The problem was unclear and volunteers didn't receive a response. Therefore we are closing this report. As you travel, please feel welcome to report any map issues you encounter. Thanks!",//GizmoGuy, t0cableguy, rickzabel 7/24/16
+"The problem was unclear and volunteers didn't receive a response. Therefore we are closing this report. As you travel, please feel welcome to report any map issues you encounter. Thank You!",//GizmoGuy, t0cableguy, rickzabel 7/24/16
 "NotIdentified",
 
 "No further communication",
-"No further information was received and the request is being closed. As you travel, please feel welcome to report any map issues you encounter. Thanks!",
+"No further information was received and the request is being closed. As you travel, please report any map issues you encounter. Thank You!",
 "NotIdentified", //t0cableguy 12/8/14 //rickzabel 12/8/14 , karlcr9911 12/8/14
 
-"No further communication",
-"No further information was received and the request is being closed. We have made some edits that should fix some issues in the vicinity of this report. As you travel, please feel welcome to report any map issues you encounter. Thanks!", 
+"No further communication w/fixes",
+"No further information was received and the request is being closed. We have made edits in the vicinity of this report that may fix your issue. As you travel, please report any map issues you encounter. Thank You!", 
 "Solved",//t0cableguy 12/8/14 //rickzabel 12/8/14 , karlcr9911 12/8/14
 
 "Fixed",
-"Thanks to your report we have found and fixed a problem with the map. The fix should reach mobile devices within a few days. On rare occasions it can take closer to a week.", //GizmoGuy 4/13/15 t0cableguy 7/24/16
+"Due to your report we have found and fixed a problem with the map. The fix should reach mobile devices within a few days. On rare occasions it can take closer to a week.", //GizmoGuy 4/13/15 t0cableguy 7/24/16
 "Solved",
 
 "SL - Correct",
-"The speed limit is set as you indicate in this report. Please allow for GPS error and Waze best mapping practices by waiting up to 200 feet after passing the sign for the correct speed to show in the app. If you would like to see speed limits at all times while using the app, please go to Settings > Speedometer > Show speed limit. Thanks!",//t0cableguy 7/30/16
+"Volunteer Responding. The speed limit is set as you indicate in this report. Please allow for GPS error and Waze best mapping practices by waiting up to 200 feet after passing the sign for the correct speed to show in the app. If you would like to see speed limits at all times while using the app, please go to Settings > Speedometer > Show speed limit. Thank You!",//t0cableguy 7/30/16
 "Solved",
 
 "SL - Variable Limits",
-"Currently Waze does not support Variable Speed Limits (VSLs). Since we cannot enter in speed limits real time, the highest possible speed limit is displayed in Waze. If you would like to see speed limits at all times while using the app, please go to Settings > Speedometer > Show speed limit. Thanks.",
+"Volunteer Responding. Currently Waze does not support Variable Speed Limits (VSLs). Since we cannot enter in speed limits real time, the highest possible speed limit is displayed in Waze. If you would like to see speed limits at all times while using the app, please go to Settings > Speedometer > Show speed limit. Thank You.",
 "Solved",
 
 "SL - no supporting signage",
-"We have not been able to match your Speed Limit report with existing signage. If Waze does not provide the valid speed limit option to input, please tap other, and input the speed. If you would like to see speed limits at all times while using the app, please go to Settings > Speedometer > Show speed limit. Thanks!",
+"Volunteer Responding. We have not been able to match your Speed Limit report with existing signage. If Waze does not provide the valid speed limit option to input, please tap other, and input the speed. If you would like to see speed limits at all times while using the app, please go to Settings > Speedometer > Show speed limit. Thank You!",
 "NotIdentified",
 
 "SL - Temporary",
-"Temporary speed limits are only set in waze for long term changes. Please estimate how long will this zone will have a reduced speed limit.",
+"volunteer Responding. Temporary speed limits are only set in waze for long term changes. Please estimate how long will this zone will have a reduced speed limit.",
 "Open",
 
 
 "Problem appears corrected",
-"The problem appears to be corrected. Please let us know if you are continuing to have the issue. If we do not hear from you in a few days we will close this report. Thanks!",
+"The problem appears to be corrected. Please let us know if the issue continues. We will close this report soon without a response. Thank You!",
 "Open", //t0cableguy 7/25/16
 
 "Clear comment & set UR status to Open",
@@ -284,27 +284,27 @@ window.UrcommentsUSA_SoutheastArray2 = [
 "Solved",//T0cableguy 7/24/16
 
 "Unlock & research",
-"I am investigating this issue with my fellow editors. Thanks for your report!",
+"Volunteer Responding. I am investigating this issue with my fellow editors. Thank You for your report!",
 "Open",
 
 "Address Adjustments",
-"The address has been adjusted. This should reach new search results within a few days. On rare occasions it can take closer to a week. Please remove any instance of this address from your history and favorites and search again. Waze will not update your existing history of places unless you remove and search for them again. Please submit another report if this does not resolve your issue. Thanks!",
+"The address has been adjusted. This should reach new search results within a few days. On rare occasions it can take closer to a week. Please remove any instance of this address from your history and favorites and search again. Waze will not update your existing history of places unless you remove and search for them again. Please submit another report if this does not resolve your issue. Thank You!",
 "Solved", //t0cableguy 7/24/16
 
 "Address in correct spot",
-"Waze is currently routing properly to your address. Please remove any instance of this address from your history and favorites and search again. Waze will not update your existing history of places unless you remove and search for them again. Please submit another report if this does not resolve your issue. Thanks!",
+"Waze is currently routing properly to your address. Please remove any instance of this address from your history and favorites and search again. Waze will not update your existing history of places unless you remove and search for them again. Please submit another report if this does not resolve your issue. Thank You!",
 "Solved", //t0cableguy 7/24/16
 
 "Address fishing",
-"Waze does not tell us your starting or ending destinations. Please provide us your destination as you entered it into Waze. Thanks!",
+"Volunteer Responding. Waze does not tell us your starting or ending destinations. Please provide us your destination as you entered it into Waze. Thank You!",
 "Open",
 
-"Thanks for the reply",
+"Thank You for the reply",
 "Thank you for the reply! This request will be closed. As you travel, please feel welcome to report any map issues you encounter.",
 "NotIdentified", //rickzabel 12/27/14
 
 "Errors with no text",
-"Waze did not send us enough information to fix your request. Please let us know what went wrong, and tell us your destination as you entered it into Waze. Thanks!", //rickzabel 12/8/14
+"Waze did not send us enough information to fix your request. Please let us know what went wrong, and tell us your destination as you entered it into Waze. Thank You!", //rickzabel 12/8/14
 "Open",
 
 "App Bug",
@@ -320,11 +320,11 @@ window.UrcommentsUSA_SoutheastArray2 = [
 "NotIdentified",  //GizmoGuy, t0cableguy, rickzabel 1/14/2015
 
 "Signal Avoidance",
-"There are no issues with the map at this intersection and no changes we can make to prevent this route. Waze has calculated that, on average, this route is faster than waiting for the simpler route. You could be proactive and attempt the route, and prove to waze that it is fact longer to wait, or you may wait in the queue if you choose. Waze is only trying to save you time. Thanks!",
+"There are no issues with the map at this intersection and no changes we can make to prevent this route. Waze has calculated that, on average, this route is faster than waiting for the simpler route. You could be proactive and attempt the route, and prove to waze that it is fact longer to wait, or you may wait in the queue if you choose. Waze is only trying to save you time. Thank You!",
 "NotIdentified", //t0cableguy 7/25/16
 
 "Time Zone",
-"Thank you for your report, but at this time Waze does not track time zones. Your arrival time will change when your phone time changes, Thanks",
+"Thank you for your report, but at this time Waze does not track time zones. Your arrival time will change when your phone time changes, Thank You",
 "Solved",//N4DOG 8/8/16
 
 "Valid Turn",
@@ -340,76 +340,76 @@ window.UrcommentsUSA_SoutheastArray2 = [
 "NotIdentified", //karlcr9911 4/4/15 //rickzabel 4/5/15
 
 "Missing place",
-"Thank you for reporting a missing place.  Anytime you find a a place that is missing from the waze app you can add it from the app by tapping the Pin icon > Place. After taking a picture of the place please add as many details as you can. Thanks!",
+"Thank you for reporting a missing place.  Anytime you find a a place that is missing from the waze app you can add it from the app by tapping the Pin icon > Place. After taking a picture of the place please add as many details as you can. Thank You!",
 "NotIdentified",
 
 
 "Double yellow turns",
-"Volunteer responding, It is legal to make a left turn across one double yellow line. Turning across three or more yellow lines, is considered a barrier, and is illegal to cross. Thanks!", 
+"Volunteer responding, It is legal to make a left turn across one double yellow line. Turning across three or more yellow lines, is considered a barrier, and is illegal to cross. Thank You!", 
 "NotIdentified",//t0cableguy 7/25/16
 
 "Detours / Odd-Routing",
-"We can't find anything on the map to explain the route Waze gave you. Waze will route complex detours to save a few seconds. We are very sorry to say that map editors cannot be helpful in this situation. Thanks!",
+"We can't find anything on the map to explain the route Waze gave you. Waze will route complex detours to save a few seconds. We are very sorry to say that map editors cannot be helpful in this situation. Thank You!",
 "NotIdentified", //rickzabel 4/18/20115
 
 "Overall Waze complaint",
-"You can help make Waze better by reporting problems as you find them. Please include as many details as possible. Thanks!",
+"You can help make Waze better by reporting problems as you find them. Please include as many details as possible. Thank You!",
 "NotIdentified", //rickzabel Pesach 12/22/14
 
 "Report to local municipality",
-"We are only able to help with map issues. This should be reported to the local municipality. Please feel welcome to report any map issues you encounter. Thanks!",
+"We are only able to help with map issues. This should be reported to the local municipality. Please feel welcome to report any map issues you encounter. Thank You!",
 "NotIdentified", //GizmoGuy, t0cableguy, rickzabel 1/14/2015
 
 "No user transponder (avoid tolls)",
-" While Waze attempts to route you to your destination efficiently, it does not know if you have a toll transponder. We cannot remove the path, or set it so only transponder users will be routed through it. To avoid tolls, there is an option under Search > Settings > Navigation or after clicking GO tap Routes and select one without gold coins (iphone) or toll (android). Thanks!",
+" While Waze attempts to route you to your destination efficiently, it does not know if you have a toll transponder. We cannot remove the path, or set it so only transponder users will be routed through it. To avoid tolls, there is an option under Search > Settings > Navigation or after clicking GO tap Routes and select one without gold coins (iphone) or toll (android). Thank You!",
 "NotIdentified", //rickzabel 4/17/2015
 
 "Not Using HOV",
-"Waze does not have the ability to know you meet the HOV criteria. Driving into the HOV lane should force Waze to recalculate your route. Afterwards you should be allowed to stay in the HOV lane. Thanks!",
+"Waze does not have the ability to know you meet the HOV criteria. Driving into the HOV lane should force Waze to recalculate your route. Afterwards you should be allowed to stay in the HOV lane. Thank You!",
 "NotIdentified", //rickzabel 12/14/14
 
 "U-turns",
-"Currently Waze will only navigate \"U-turn\" in select situations. The app will prompt several left/right turns to effectively create a U-turn. This is a programming issue that cannot be changed by the volunteer map editors. We understand that Waze is working on a fix. Thanks!",
+"Volunteer Responding. Currently Waze will only navigate \"U-turn\" in select situations. The app will prompt several left/right turns to effectively create a U-turn. This is a programming issue that cannot be changed by the volunteer map editors. We understand that Waze is working on a fix. Thank You!",
 "NotIdentified", //t0cableguy 6/25/16
 
 "Traffic - Stale Information",
-"Map editors are unable to remove traffic jams. You can help clear traffic reports by tapping \"not there\" when prompted or by traveling through the intersection at normal speed.",
+"Volunteer Responding. Map editors are unable to remove traffic jams. You can help clear traffic reports by tapping \"not there\" when prompted or by traveling through the intersection at normal speed.",
 "NotIdentified", // rickzabel 7/22/2015 t0cableguy 7/22/2015
 
 "Traffic - Jams",
-"To report a traffic jams please use the Waze app by clicking the pin in the lower right and then clicking Traffic Jam. Traffic Jam reports can help route you and other Wazers around traffic problems in real-time. Thanks!",
+"Volunteer Responding. To report a traffic jams please use the Waze app by clicking the pin in the lower right and then clicking Traffic Jam. Traffic Jam reports can help route you and other Wazers around traffic problems in real-time. Thank You!",
 "NotIdentified", // reworded - rickzabel 12/7/2014, karlcr9911 12/8/14
 
 "Already included restrictions",
-"This restriction is already included in the map, Waze should not route through this illegal turn. If Waze ever gives you a route through a restricted turn, please send another Map Issue report at that time. Thanks!",
+"Volunteer Responding. This restriction is already included in the map, Waze should not route through this illegal turn. If Waze ever gives you a route through a restricted turn, please send another Map Issue report at that time. Thank You!",
 "NotIdentified",  //rickzabel Pesach 12/27/14
 
 "1000 mile limit",
-"The search and navigation capabilities of Waze are limited to 1000 miles. When driving further than that distance you will need to select a destination less than 1000 miles as your temporary destination.",
+"Volunteer Responding. The search and navigation capabilities of Waze are limited to 1000 miles. When driving further than that distance you will need to select a destination less than 1000 miles as your temporary destination.",
 "NotIdentified", //karlcr9911 4/5/15 //rickzabel 4/5/15
 
 "Road Closed",
-"Please let us know the following; What road is closed?; between which intersections is this road closed; How long is this road scheduled to be closed? Thanks!",
+"Volunteer Responding. Please let us know the following; What road is closed?; between which intersections is this road closed; How long is this road scheduled to be closed? Thank You!",
 "Open", //t0cableguy 7/25/16
 
 "Temporary road blockage",
-"If the road is completely blocked, use the Report > Closure feature for you and others to be rerouted around it. Otherwise please use Report > Traffic. At a minimum Waze is learning that that route is slower, and a faster route will become preferred.",
+"Volunteer Responding. If the road is completely blocked, use the Report > Closure feature for you and others to be rerouted around it. Otherwise please use Report > Traffic. At a minimum Waze is learning that that route is slower, and a faster route will become preferred.",
 "NotIdentified", //GizmoGuy, t0cableguy, rickzabel 1/14/2015
 
 "Temporary Road Closure",
-"Is local traffic allowed to use the road or is it entirely blocked? How long will the road be closed? We currently cannot close a road that is open to local residents. If you can let us know where the road is fully blocked we can close that section of road. Thanks!",
+"Volunteer Responding. Is local traffic allowed to use the road or is it entirely blocked? How long will the road be closed? We currently cannot close a road that is open to local residents. If you can let us know where the road is fully blocked we can close that section of road. Thank You!",
 "Open", //t0cableguy 7/25/16
 
 "Water non-editable",
-"Water features are not editable by the volunteer editors North America, feel free to report this incorrect water polygon to support at https://support.google.com/waze/",
+"Volunteer Responding. Water features are not editable by the volunteer editors North America, feel free to report this incorrect water polygon to support at https://support.google.com/waze/",
 "NotIdentified",
 
 "Clear TTS Cache",
-"Please clear your Text-to-Speech cache. In the navigate search box type cc@tts in the search field and press search. You will get a message that the TTS file has been cleared. Your TTS cache we be re-populated as you use routing.. Thanks!", 
+"Volunteer Responding. Please clear your Text-to-Speech cache. In the navigate search box type cc@tts in the search field and press search. You will get a message that the TTS file has been cleared. Your TTS cache we be re-populated as you use routing.. Thank You!", 
 "NotIdentified", //GizmoGuy411  t0cableguy rickzabel 2015-04-04 t0cableguy This should be a last chance option for fixing the issue.04-04-2015  rickzabel 04-04-2015
 
 "Camera report",
-"Red light cameras are supported separate of the signal ahead of the intersection, so they can photograph the signal and your plate simultaneously. Surveillance cameras mounted on the signal masts are not red light infraction cameras. Is this a red light infraction camera or is this a surveillance camera?", 
+"Volunteer Responding. Red light cameras are supported separate of the signal. on a post before of the intersection, so they can photograph the signal and your plate simultaneously. Surveillance cameras mounted on the signal masts are not red light infraction cameras. Is this a red light infraction camera or is this a surveillance camera?", 
 "Open",//t0cableguy 7/25/16
 
 "<br>",
@@ -418,42 +418,42 @@ window.UrcommentsUSA_SoutheastArray2 = [
 
 
 "Include Users Description",
-"You reported \"$URD\" but Waze did not send us enough information to fix your request. Please let us know what went wrong, and tell us your destination as you entered it into Waze. Thanks!",
+"Volunteer Responding. You reported \"$URD\" but Waze did not send us enough information to fix your request. Please let us know what went wrong, and tell us your destination as you entered it into Waze. Thank You!",
 "Open", //t0cableguy 7/25/16
 
 //selected segments requires the use of (can someone test if this works?) https://greasyfork.org/en/scripts/9232-wme-panel-swap
 "Include selected segments names",
-"You reported a problem near $SELSEGS, Waze did not send us enough information to fix your request. Please let us know what went wrong and tell us your destination as you entered it into Waze. Thanks!",
+"Volunteer Responding. You reported a problem near $SELSEGS, Waze did not send us enough information to fix your request. Please let us know what went wrong and tell us your destination as you entered it into Waze. Thank You!",
 "Open", //t0cableguy 7/25/16
 
 "Wrong Street Name",
-"Waze did not send us enough information to fix your request. Please let us know which street name you think is wrong and what it should be. Thanks",
+"Volunteer Responding. Waze did not send us enough information to fix your request. Please let us know which street name you think is wrong and what it should be. Thank You",
 "Open", //rickzabel Pesach 12/22/14
 
 "User Followed Waze's route",
-"It appears that you followed the route Waze suggested. Please let us know what went wrong, and tell us your destination as you entered it into Waze. Thanks!", //reworded rickzabel 12/7/2014
+"Volunteer Responding. It appears that you followed the route Waze suggested. Please let us know what went wrong, and tell us your destination as you entered it into Waze. Thank You!", //reworded rickzabel 12/7/2014
 "Open",
 
 "Alley Interference",
-"Waze does not let the us know where you were going, although it was probably adjacent to the alley. Please tell us your destination as you entered it into Waze. Thanks!", //rickzabel 12/9/14
+"Volunteer Responding. Waze does not let the us know where you were going, although it was probably adjacent to the alley. Please tell us your destination as you entered it into Waze. Thank You!", //rickzabel 12/9/14
 "Open",
 
 "Area Entrances",
-"We have had problems with Google pins being placed in the center of large landmarks. Remove your previous search and do a new search for the location.", //t0cableguy 7/25/16
+"Volunteer Responding. We have had problems with Google pins being placed in the center of large landmarks. Remove your previous search and do a new search for the location.", //t0cableguy 7/25/16
 "Open",
 
 "48 Hour Reply",
-"We made some changes to the map, please allow up to 48 hours for the changes to be reflected in the app.", //t0cableguy 7/25/16
+"Volunteer Responding. We made some changes to the map, please allow up to 48 hours for the changes to be reflected in the app.", //t0cableguy 7/25/16
 "Open",
 
 "Manual Refresh",
-"Please tap the Wazer icon > Settings > Advanced > Data transfer > Refresh Map Of My Area. Secondly, you can try clearing Waze's app cache in your phone's app manager. If that does not fix the issue please remove the app and its data and reinstall it. Thanks!", //t0cableguy 7/25/16
+"Volunteer Responding. Please tap the Wazer icon > Settings > Advanced > Data transfer > Refresh Map Of My Area. Secondly, you can try clearing Waze's app cache in your phone's app manager. If that does not fix the issue please remove the app and its data and reinstall it. Thank You!", //t0cableguy 7/25/16
 //The final option is to reset the app by going to the navigation screen and type ##@resetapp in search field and hit search.
 //GizmoGuy rickzabel 2/26/15
 "Open",
 
 "Pave Road",
-"You can pave the road from the app by tapping the Pin icon > Map Issue > Pave Road tab. After leaving the paved road, tap Start paving. Once done, tap the Steamroller > Stop paving. You can provide information about the new road such as its name by tapping on the Pin icon > Map Issue > Missing Road. Thanks!",
+"Volunteer Responding. You can pave the road from the app by tapping the Pin icon > Map Issue > Pave Road tab. After leaving the paved road, tap Start paving. Once done, tap the Steamroller > Stop paving. You can provide information about the new road such as its name by tapping on the Pin icon > Map Issue > Missing Road. Thank You!",
 "Open",
 
 
@@ -463,76 +463,76 @@ window.UrcommentsUSA_SoutheastArray2 = [
 "",
 "",
 
-//Default URs  6 through 22 are all the different types of UR that a user can submit do not change them thanks
+//Default URs  6 through 22 are all the different types of UR that a user can submit do not change them Thank You
 //50
 "Incorrect turn", //6
-"Please let us know what turn you are having a problem with, and tell us your destination as you entered it into Waze. Thanks!", //rickzabel 12/9/14
+"Volunteer Responding. Please let us know what turn you are having a problem with, and tell us your destination as you entered it into Waze. Thank You!", //rickzabel 12/9/14
 "Open",
 
 //51
 "Incorrect address", //7
-"Waze did not send us enough information to fix your request. Please tell us your destination as you entered it into Waze. What is the problem you are having with this address? Thanks!", //rickzabel 12/8/14
+"Volunteer Responding. Waze did not send us enough information to fix your request. Please tell us your destination as you entered it into Waze. What is the problem you are having with this address? Thank You!", //rickzabel 12/8/14
 "Open",
 
 "Incorrect route", //8
-"Waze did not send us enough information to fix your request. Please let us know what went wrong with the route Waze gave you. Please tell us your destination as you entered it into Waze. Thanks!",  //t0cableguy 7/25/16
+"Volunteer Responding. Waze did not send us enough information to fix your request. Please let us know what went wrong with the route Waze gave you. Please tell us your destination as you entered it into Waze. Thank You!",  //t0cableguy 7/25/16
 "Open",
 
 "Missing roundabout", //9
-"Please tell us as much as possible about the roundabout that is missing. Thanks!", //t0cableguy 7/25/16
+"Volunteer Responding. Please tell us as much as possible about the roundabout that is missing. Thank You!", //t0cableguy 7/25/16
 "Open",
 
 "General error", //10
-"Waze did not send us enough information to fix your request. Please let us know what went wrong and tell us your destination as you entered it into Waze. Thanks!", //t0cableguy 7/25/16
+"Volunteer Responding. Waze did not send us enough information to fix your request. Please let us know what went wrong and tell us your destination as you entered it into Waze. Thank You!", //t0cableguy 7/25/16
 "Open",
 
 "Turn not allowed", //11
-"Please let us know which turn was or should not be allowed. Please specify the street names at the intersection. Thanks!",//t0cableguy 7/25/16
+"Volunteer Responding. Please let us know which turn was or should not be allowed. Please specify the street names at the intersection. Thank You!",//t0cableguy 7/25/16
 "Open",
 
 "Incorrect junction", //12
-"Waze did not send us enough information to fix your request. Please let us know what was wrong with the route and tell us your destination as you entered it. Thanks!", //t0cableguy 7/25/16
+"Volunteer Responding. Waze did not send us enough information to fix your request. Please let us know what was wrong with the route and tell us your destination as you entered it. Thank You!", //t0cableguy 7/25/16
 "Open",
 
 "Missing bridge overpass", //13
-"Please let us know what overpass you believe is missing. When moving at highway speeds, Waze deliberately chooses not to display some nearby features to avoid cluttering the screen. Tell us as much as possible about the missing overpass. Thanks!",  //t0cableguy 7/25/16
+"Volunteer Responding. Please let us know what overpass you believe is missing. When moving at highway speeds, Waze deliberately chooses not to display some nearby features to avoid cluttering the screen. Tell us as much as possible about the missing overpass. Thank You!",  //t0cableguy 7/25/16
 "Open",
 
 "Wrong driving direction", //14
-"Waze did not send us enough information to fix your request. Please let us know what was wrong with the route and tell us your destination as you entered it. Thanks!", //rickzabel 12/9/14
+"Volunteer Responding. Waze did not send us enough information to fix your request. Please let us know what was wrong with the route and tell us your destination as you entered it. Thank You!", //rickzabel 12/9/14
 "Open",
 
 "Missing Exit", //15
-"Waze did not send us enough information to fix your request. Please let us know as much as possible about the missing exit. Thanks!", //rickzabel 12/9/14
+"Volunteer Responding. Waze did not send us enough information to fix your request. Please let us know as much as possible about the missing exit. Thank You!", //rickzabel 12/9/14
 "Open",
 
 "Missing Road", //16
-"Please tell us as much as possible about the road you believe is missing. Thanks!", //rickzabel 12/9/14
+"Volunteer Responding. Please tell us as much as possible about the road you believe is missing. Thank You!", //rickzabel 12/9/14
 "Open",
 
 "Missing Landmark", //18
-"Please tell us as much as possible about the landmark you believe is missing. Thanks!",
+"Volunteer Responding. Please tell us as much as possible about the landmark you believe is missing. Thank You!",
 "Open",
 
 /*These comments are inactive
 
 "Blocked Road", //19
-"If the road is completely blocked, use the Report > Closure feature for you and others to be rerouted around it. Otherwise please use Report > Traffic. At a minimum Waze is learning that that route is slower, and a faster route will become preferred.",
+"Volunteer Responding. If the road is completely blocked, use the Report > Closure feature for you and others to be rerouted around it. Otherwise please use Report > Traffic. At a minimum Waze is learning that that route is slower, and a faster route will become preferred.",
 "Open",
 
 "Missing Street Name", //21
-"Waze did not send us enough information to fix your request. Please let us know which street name you think is wrong and what it should be. Thanks",
+"Volunteer Responding. Waze did not send us enough information to fix your request. Please let us know which street name you think is wrong and what it should be. Thank You",
 "Open",
 
 "Incorrect Street Prefix or Suffix", ///22
-"Waze did not send us enough information to fix your request. Please let us know which street name you think is wrong and what it should be. Thanks",
+"Volunteer Responding. Waze did not send us enough information to fix your request. Please let us know which street name you think is wrong and what it should be. Thank You",
 "Open",
 
 
 */
 
 "Speed Limit", //23
-"Waze did not send us enough information to fix your request. Please tell us as much as possible about the problem with the speed limit. \n\nIf you would like to see speed limits at all times please go to Settings > Speedometer > Show speed limit.  Thanks!",
+"Volunteer Responding. Waze did not send us enough information to fix your request. Please tell us as much as possible about the problem with the speed limit. \n\nIf you would like to see speed limits at all times please go to Settings > Speedometer > Show speed limit.  Thank You!",
 "Open", //rickzabel
 
 "<br>",
@@ -541,8 +541,8 @@ window.UrcommentsUSA_SoutheastArray2 = [
 //End of Default URs
 
 "Reminder message (do not use in SE!)", //do not change (rickzabel) t0cableguy 7/25/16
-//"Just a reminder: We have not received a response on your report. If we don't hear back from you soon we will infer everything is okay and close the report. Thanks!", //karlcr9911 12/7/14  //this has been getting me the most responses, but it probably is the special link i am including with the UR layer enabled rickzabel 12/7/14 t0cableguy 12/8/14
-//"Just a reminder: We have not received a response on your report. If we don't hear back from you soon, we will infer everything is okay and close the report. Thanks!",//GizmoGuy, t0cableguy, rickzabel 1/14/2015
+//"Just a reminder: We have not received a response on your report. If we don't hear back from you soon we will infer everything is okay and close the report. Thank You!", //karlcr9911 12/7/14  //this has been getting me the most responses, but it probably is the special link i am including with the UR layer enabled rickzabel 12/7/14 t0cableguy 12/8/14
+//"Just a reminder: We have not received a response on your report. If we don't hear back from you soon, we will infer everything is okay and close the report. Thank You!",//GizmoGuy, t0cableguy, rickzabel 1/14/2015
 "T0 is warning you, D doesn't like reminders! you better turn this off!",
 "Open",
 
