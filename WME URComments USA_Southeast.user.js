@@ -4,7 +4,7 @@
 // @namespace      t0cableguy@gmail.com
 // @grant          none
 // @grant          GM_info
-// @version        0.2.0
+// @version        0.2.1
 // @match          https://beta.waze.com/*editor/*
 // @match          https://www.waze.com/*editor/*
 // @author         Rick Zabel '2014
@@ -319,8 +319,12 @@ window.UrcommentsUSA_SoutheastArray2 = [
 "We reviewed the issue and did not find any map errors. It looks like Waze provided you with a valid route. Try the Waze suggested route a few times, as it may turn out to actually be faster. If not you'll be teaching Waze that that route is slower, and the faster route will become preferred.",
 "NotIdentified",  //GizmoGuy, t0cableguy, rickzabel 1/14/2015
 
+"Gated Community",
+"Waze is unable to differentiate from a visitor or a resident. Waze is mapped for commuters and we must consider all routes for a community's residents. Please consider posting a message in the appropriate state forum to get options to help with this issue",
+"NotIdentified",//t0cableguy 1/12/17
+ 
 "Signal Avoidance",
-"There are no issues with the map at this intersection and no changes we can make to prevent this route. Waze has calculated that, on average, this route is faster than waiting for the simpler route. You could be proactive and attempt the route, and prove to waze that it is fact longer to wait, or you may wait in the queue if you choose. Waze is only trying to save you time. Thank You!",
+"Currently this intersection is mapped properly. Waze has calculated that it may take less time to take the complicated route instead of the direct route. You can choose to take the direct route, or attempt the suggested Waze route and possibly save some time. Thank You!",
 "NotIdentified", //t0cableguy 7/25/16
 
 "Time Zone",
