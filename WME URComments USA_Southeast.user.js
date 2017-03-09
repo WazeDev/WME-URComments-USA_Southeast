@@ -4,7 +4,7 @@
 // @namespace      t0cableguy@gmail.com
 // @grant          none
 // @grant          GM_info
-// @version        0.2.1
+// @version        0.2.2
 // @match          https://beta.waze.com/*editor/*
 // @match          https://www.waze.com/*editor/*
 // @author         Rick Zabel '2014
