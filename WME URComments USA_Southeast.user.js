@@ -451,7 +451,7 @@ window.UrcommentsUSA_SoutheastArray2 = [
 "Open",
 
 "Manual Refresh",
-"Volunteer Responding. Please tap the Wazer icon > Settings > Advanced > Data transfer > Refresh Map Of My Area. Secondly, you can try clearing Waze's app cache in your phone's app manager. If that does not fix the issue please remove the app and its data and reinstall it. Thank You!", //t0cableguy 7/25/16
+"Volunteer Responding. Please tap the search button > Settings > Display and map > Data transfer > Refresh Map Of My Area.",
 //The final option is to reset the app by going to the navigation screen and type ##@resetapp in search field and hit search.
 //GizmoGuy rickzabel 2/26/15
 "Open",
